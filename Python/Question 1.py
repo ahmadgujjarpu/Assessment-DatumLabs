@@ -3,7 +3,7 @@ RawNmubers=[1,1,"None","None",2,"None","None"]
 #Defined Output array
 NumbersList=[]
 #Defined Number variable to store last not none value
-lastnumber=0
+lastnumber=1
 # Loop to go through all the values of raw list
 for i in RawNmubers:
     # Condition to check non None value
